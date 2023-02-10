@@ -21,7 +21,7 @@
 [6]	基于IIS2DH的振动传感器开发  
 [7]	送药机器人研发与实现  
 ## 科研论文（2020年后）： ##
-[1]	Qing Lin, Ruili He,** Peihe Jiang***. Feature Guided CNN for Baby’s Facial Expression Recognition[J]. Complexity, 2020: 1-10.  
+[1]	Qing Lin, Ruili He,** Peihe Jiang** *. Feature Guided CNN for Baby’s Facial Expression Recognition[J]. Complexity, 2020: 1-10.  
 [2]	折如义,李炳辉,**姜佩贺***.三级流水线RISC-V处理器设计与验证[J].电子技术应用,2020,46(05):44-49.DOI:10.16157/j.issn.0258-7998.200028.  
 [3]	**姜佩贺**,郭刚,吴中杰,位寅生.基于IIS2DH的振动信号处理与传感器设计[J].仪表技术与传感器,2021(08):116-121.  
 [4]	**姜佩贺**,王晨旭*,郭刚,位寅生.面向FPGA应用的硬件木马植入与检测技术研究[J].计算机工程与应用,2021,57(20):119-124.  
