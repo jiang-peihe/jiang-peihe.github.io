@@ -21,12 +21,12 @@
 [6]	基于IIS2DH的振动传感器开发  
 [7]	送药机器人研发与实现  
 ## 科研论文（2020年后）： ##
-[1]	Qing Lin, Ruili He, Peihe Jiang*. Feature Guided CNN for Baby’s Facial Expression Recognition[J]. Complexity, 2020: 1-10.  
-[2]	折如义,李炳辉,姜佩贺*.三级流水线RISC-V处理器设计与验证[J].电子技术应用,2020,46(05):44-49.DOI:10.16157/j.issn.0258-7998.200028.  
-[3]	姜佩贺,郭刚,吴中杰,位寅生.基于IIS2DH的振动信号处理与传感器设计[J].仪表技术与传感器,2021(08):116-121.  
-[4]	姜佩贺,王晨旭*,郭刚,位寅生.面向FPGA应用的硬件木马植入与检测技术研究[J].计算机工程与应用,2021,57(20):119-124.  
-[5]	Jing Wang, Yunhan Zhang,  Peihe Jiang*. Design and research of intelligent wheelchair robot based on lidar and ROS[C]//2022 IEEE 6th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC). IEEE, 2022: 1736-1740.  
-[6]	Ruyi She, Chenchen Zhu, Peihe Jiang. Design and implementation of SM4 algorithm with a cuttable structure[C]//2022 IEEE 5th Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC). IEEE, 2022, 5: 1292-1296.  
+[1]	Qing Lin, Ruili He,** Peihe Jiang***. Feature Guided CNN for Baby’s Facial Expression Recognition[J]. Complexity, 2020: 1-10.  
+[2]	折如义,李炳辉,**姜佩贺***.三级流水线RISC-V处理器设计与验证[J].电子技术应用,2020,46(05):44-49.DOI:10.16157/j.issn.0258-7998.200028.  
+[3]	**姜佩贺**,郭刚,吴中杰,位寅生.基于IIS2DH的振动信号处理与传感器设计[J].仪表技术与传感器,2021(08):116-121.  
+[4]	**姜佩贺**,王晨旭*,郭刚,位寅生.面向FPGA应用的硬件木马植入与检测技术研究[J].计算机工程与应用,2021,57(20):119-124.  
+[5]	Jing Wang, Yunhan Zhang,  **Peihe Jiang***. Design and research of intelligent wheelchair robot based on lidar and ROS[C]//2022 IEEE 6th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC). IEEE, 2022: 1736-1740.  
+[6]	Ruyi She, Chenchen Zhu, **Peihe Jiang**. Design and implementation of SM4 algorithm with a cuttable structure[C]//2022 IEEE 5th Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC). IEEE, 2022, 5: 1292-1296.  
 ## 发明专利： ##
 [1]	赵占锋,周志权,姜佩贺,赵宜楠. 适用于高压强环境的质量分析方法及质谱仪[P]. CN108519427B,2020-02-21.  
 [2]	赵占锋,姜佩贺,周志权. 离子接收极[P]. CN107275180B, 2019-07-12.  
